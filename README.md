@@ -5,5 +5,10 @@
 I made this because I always have my solder rolling around or on one of those cheap holders that are so light that they fall or break. So I made this so for other people that need a solder older they can 3D print it for cheaper. THis holds your Solder, flux and Soldering Iron cleaner.
 # What it is 
 It is a 3d printable part that holds your Solder, flux and Soldering Iron cleaner.
+# Cost
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| 3D printed part | For project | 1 | 0.00 |  | Printing legion |
+For those printing at PCBway the cost is arount 20 dollars in pla and petg.
 # Solder-Holder
 A 3D printable solder Holder for when you Need some free hands.
